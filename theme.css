@@ -10,7 +10,7 @@ body
 
 }
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
     body {
     margin-left: 5vw;
     margin-right: 5vw;
